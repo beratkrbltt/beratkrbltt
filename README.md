@@ -1,4 +1,3 @@
-[![MasterHead]([![MasterHead](https://www.yazilimturkiye.com/wp-content/uploads/2019/09/YazilimTurk_DK_Klasik.png))
 <h1 align="center">Hi 👋, I'm Berat Karabulut</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
