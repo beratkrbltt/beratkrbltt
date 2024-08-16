@@ -1,4 +1,3 @@
-![Developer Image](https://cdn.pixabay.com/photo/2016/07/12/19/08/laptop-1512838_1280.png)
 <h1 align="center">Hi 👋, I'm Berat Karabulut</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
