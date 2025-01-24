@@ -11,7 +11,7 @@ Hello, I'm **Berat Karabulut**, a 22-year-old graduate in **Management Informati
 I am passionate about technology and constantly strive to enhance my skills every day. I approach my work not just with a business mindset, but with a genuine enthusiasm for creating, learning, and improving.  
 
 - 📫 **How to reach me**:  
-  **📧 Email**: berattkarabulutt52@gmail.com  
+  **📧 Email**: berattkarabulutt@gmail.com  
   **🌐 Portfolio**: [berattk-portfolio.web.app](https://berattk-portfolio.web.app/)  
 
 ---
