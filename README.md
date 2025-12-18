@@ -7,7 +7,7 @@
 
 ### 🌟 About Me
 
-Hello, I'm **Berat Karabulut**, a 22-year-old graduate in **Management Information Systems (MIS)**.  
+Hello, I'm **Berat Karabulut**, a 23-year-old graduate in **Management Information Systems (MIS)**.  
 I am passionate about technology and constantly strive to enhance my skills every day. I approach my work not just with a business mindset, but with a genuine enthusiasm for creating, learning, and improving.  
 
 - 📫 **How to reach me**:  
